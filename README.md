@@ -3,9 +3,9 @@
 ### Apresentação
 Estamos animados com a oportunidade de avaliar suas habilidades.
 
-Com isso, preparamos algun requisitos relativamente simples para os dias atuais, porém, com funcionalidades muito próximas da nossa realidade.
+Com isso, preparamos alguns requisitos relativamente simples considerando os dias atuais, porém, com funcionalidades muito próximas da nossa realidade.
 
-Estamos sempre abertos a pessoas criativas que pensam fora da caixa, contudo, esperamos uma solução simples, organizada e objetiva.
+Estamos sempre abertos a pessoas criativas que pensam fora da caixa, esperamos uma solução simples, organizada e objetiva.
 
 ### Desafio
 - O desafio é desenvolver um chat simples. Quando o usuário enviar uma mensagem, todos que estiverem conectados precisam receber a mensagem.
