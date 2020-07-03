@@ -31,4 +31,3 @@ Estamos sempre abertos a pessoas criativas que pensam fora da caixa, esperamos u
 
 ### Entrega
 - Prazo aproximado: 7 dias corridos
-- Ao concluir, enviar o link do seu repositório para luiz@vonix.com.br
